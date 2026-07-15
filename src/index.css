@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@media screen and (orientation: portrait) {
+    .portrait-warning {
+        display: flex !important;
+    }
+}
